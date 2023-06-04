@@ -1,0 +1,22 @@
+D:\афонин c#\lab21-25\lab21-25\bin\Debug\lab21-25.exe.config
+D:\афонин c#\lab21-25\lab21-25\bin\Debug\lab21-25.exe
+D:\афонин c#\lab21-25\lab21-25\bin\Debug\lab21-25.pdb
+D:\афонин c#\lab21-25\lab21-25\obj\Debug\lab21-25.csproj.AssemblyReference.cache
+D:\афонин c#\lab21-25\lab21-25\obj\Debug\lab21-25.csproj.SuggestedBindingRedirects.cache
+D:\афонин c#\lab21-25\lab21-25\obj\Debug\lab21_25.MainForm.resources
+D:\афонин c#\lab21-25\lab21-25\obj\Debug\lab21_25.Properties.Resources.resources
+D:\афонин c#\lab21-25\lab21-25\obj\Debug\lab21-25.csproj.GenerateResource.cache
+D:\афонин c#\lab21-25\lab21-25\obj\Debug\lab21-25.csproj.CoreCompileInputs.cache
+D:\афонин c#\lab21-25\lab21-25\obj\Debug\lab21-25.exe
+D:\афонин c#\lab21-25\lab21-25\obj\Debug\lab21-25.pdb
+D:\проги\cамуйлов\lab21-25\lab21-25\bin\Debug\lab21-25.exe.config
+D:\проги\cамуйлов\lab21-25\lab21-25\bin\Debug\lab21-25.exe
+D:\проги\cамуйлов\lab21-25\lab21-25\bin\Debug\lab21-25.pdb
+D:\проги\cамуйлов\lab21-25\lab21-25\obj\Debug\lab21-25.csproj.AssemblyReference.cache
+D:\проги\cамуйлов\lab21-25\lab21-25\obj\Debug\lab21-25.csproj.SuggestedBindingRedirects.cache
+D:\проги\cамуйлов\lab21-25\lab21-25\obj\Debug\lab21_25.MainForm.resources
+D:\проги\cамуйлов\lab21-25\lab21-25\obj\Debug\lab21_25.Properties.Resources.resources
+D:\проги\cамуйлов\lab21-25\lab21-25\obj\Debug\lab21-25.csproj.GenerateResource.cache
+D:\проги\cамуйлов\lab21-25\lab21-25\obj\Debug\lab21-25.csproj.CoreCompileInputs.cache
+D:\проги\cамуйлов\lab21-25\lab21-25\obj\Debug\lab21-25.exe
+D:\проги\cамуйлов\lab21-25\lab21-25\obj\Debug\lab21-25.pdb

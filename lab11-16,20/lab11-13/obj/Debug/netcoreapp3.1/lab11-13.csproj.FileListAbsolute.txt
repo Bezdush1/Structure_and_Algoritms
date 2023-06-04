@@ -1,0 +1,17 @@
+D:\проги\cамуйлов\lab11-13\lab11-13\bin\Debug\netcoreapp3.1\lab11-13.exe
+D:\проги\cамуйлов\lab11-13\lab11-13\bin\Debug\netcoreapp3.1\lab11-13.deps.json
+D:\проги\cамуйлов\lab11-13\lab11-13\bin\Debug\netcoreapp3.1\lab11-13.runtimeconfig.json
+D:\проги\cамуйлов\lab11-13\lab11-13\bin\Debug\netcoreapp3.1\lab11-13.runtimeconfig.dev.json
+D:\проги\cамуйлов\lab11-13\lab11-13\bin\Debug\netcoreapp3.1\lab11-13.dll
+D:\проги\cамуйлов\lab11-13\lab11-13\bin\Debug\netcoreapp3.1\lab11-13.pdb
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11-13.csproj.AssemblyReference.cache
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11_13.Form1.resources
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11_13.Properties.Resources.resources
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11-13.csproj.GenerateResource.cache
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11-13.GeneratedMSBuildEditorConfig.editorconfig
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11-13.AssemblyInfoInputs.cache
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11-13.AssemblyInfo.cs
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11-13.csproj.CoreCompileInputs.cache
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11-13.dll
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11-13.pdb
+D:\проги\cамуйлов\lab11-13\lab11-13\obj\Debug\netcoreapp3.1\lab11-13.genruntimeconfig.cache

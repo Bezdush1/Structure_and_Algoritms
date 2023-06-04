@@ -1,0 +1,41 @@
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\bin\Debug\Lab1-3.exe.config
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\bin\Debug\Lab1-3.exe
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\bin\Debug\Lab1-3.pdb
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.AssemblyReference.cache
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.SuggestedBindingRedirects.cache
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\obj\Debug\Lab1_3.Form1.resources
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\obj\Debug\Lab1_3.Properties.Resources.resources
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.GenerateResource.cache
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.CoreCompileInputs.cache
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\obj\Debug\Lab1-3.exe
+C:\Users\medve\source\repos\Lab1-3\Lab1-3\obj\Debug\Lab1-3.pdb
+E:\Lab1-3\Lab1-3\bin\Debug\Lab1-3.exe.config
+E:\Lab1-3\Lab1-3\bin\Debug\Lab1-3.exe
+E:\Lab1-3\Lab1-3\bin\Debug\Lab1-3.pdb
+E:\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.AssemblyReference.cache
+E:\Lab1-3\Lab1-3\obj\Debug\Lab1_3.Form1.resources
+E:\Lab1-3\Lab1-3\obj\Debug\Lab1_3.Properties.Resources.resources
+E:\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.GenerateResource.cache
+E:\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.CoreCompileInputs.cache
+E:\Lab1-3\Lab1-3\obj\Debug\Lab1-3.exe
+E:\Lab1-3\Lab1-3\obj\Debug\Lab1-3.pdb
+C:\Users\дом\OneDrive\Рабочий стол\Lab1-3\Lab1-3\bin\Debug\Lab1-3.exe.config
+C:\Users\дом\OneDrive\Рабочий стол\Lab1-3\Lab1-3\bin\Debug\Lab1-3.exe
+C:\Users\дом\OneDrive\Рабочий стол\Lab1-3\Lab1-3\bin\Debug\Lab1-3.pdb
+C:\Users\дом\OneDrive\Рабочий стол\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.AssemblyReference.cache
+C:\Users\дом\OneDrive\Рабочий стол\Lab1-3\Lab1-3\obj\Debug\Lab1_3.Form1.resources
+C:\Users\дом\OneDrive\Рабочий стол\Lab1-3\Lab1-3\obj\Debug\Lab1_3.Properties.Resources.resources
+C:\Users\дом\OneDrive\Рабочий стол\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.GenerateResource.cache
+C:\Users\дом\OneDrive\Рабочий стол\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.CoreCompileInputs.cache
+C:\Users\дом\OneDrive\Рабочий стол\Lab1-3\Lab1-3\obj\Debug\Lab1-3.exe
+C:\Users\дом\OneDrive\Рабочий стол\Lab1-3\Lab1-3\obj\Debug\Lab1-3.pdb
+D:\проги\cамуйлов\Lab1-3\Lab1-3\bin\Debug\Lab1-3.exe.config
+D:\проги\cамуйлов\Lab1-3\Lab1-3\bin\Debug\Lab1-3.exe
+D:\проги\cамуйлов\Lab1-3\Lab1-3\bin\Debug\Lab1-3.pdb
+D:\проги\cамуйлов\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.AssemblyReference.cache
+D:\проги\cамуйлов\Lab1-3\Lab1-3\obj\Debug\Lab1_3.Form1.resources
+D:\проги\cамуйлов\Lab1-3\Lab1-3\obj\Debug\Lab1_3.Properties.Resources.resources
+D:\проги\cамуйлов\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.GenerateResource.cache
+D:\проги\cамуйлов\Lab1-3\Lab1-3\obj\Debug\Lab1-3.csproj.CoreCompileInputs.cache
+D:\проги\cамуйлов\Lab1-3\Lab1-3\obj\Debug\Lab1-3.exe
+D:\проги\cамуйлов\Lab1-3\Lab1-3\obj\Debug\Lab1-3.pdb
